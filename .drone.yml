@@ -1,0 +1,4 @@
+build:
+  image:  java:openjdk-8
+  commands: 
+    - ./mvn clean install
